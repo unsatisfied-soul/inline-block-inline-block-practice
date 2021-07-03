@@ -1,0 +1,31 @@
+body{
+   text-align: center;
+}
+.time-direction{
+   width: 100%;
+   margin: 0 auto;
+   display: inline;
+}
+.time-1{
+   width: 30%;
+   max-width: 750px;
+   border: 2px solid red;
+   float: left;
+   overflow: hidden;
+   margin-right: 5px;
+}
+.time-2{
+   width: 30%;
+   max-width: 750px;
+   border: 2px solid red;
+   float: left;
+   overflow: hidden;
+   margin-right: 5px;
+}
+.time-3{
+   width: 30%;
+   max-width: 750px;
+   border: 2px solid red;
+   float: left;
+   margin-right: 5px;
+}
